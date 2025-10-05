@@ -3,8 +3,7 @@
 An interactive Tableau dashboard designed to analyze and visualize car sales performance across regions, brands, and time periods for better business insights.
 
 
-![Uploading image.png…]()
-
+<img width="1579" height="699" alt="image" src="https://github.com/user-attachments/assets/cb1916bc-d3b1-4200-b946-e887b5561d26" />
 
 # Introduction
 
