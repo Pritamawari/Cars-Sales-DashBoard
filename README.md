@@ -36,54 +36,54 @@ In addition to providing insights, this project also demonstrates the power of T
 
 # Dataset Details
 
-Dataset Name: Car Sales Data
-Description: Contains car sales records with details such as brand, model, price, sales date, region, and profit.
+<br>Dataset Name: Car Sales Data
+<br>Description: Contains car sales records with details such as brand, model, price, sales date, region, and profit.
 
 # Column Headings:
-Date
-Car Brand
-Car Model
-Dealer Region
-Sales Quantity
-Selling Price
-Profit
-Customer Type
+<br>Date
+<br>Car Brand
+<br>Car Model
+<br>Dealer Region
+<br>Sales Quantity
+<br>Selling Price
+<br>Profit
+<br>Customer Type
 
 # Tools & Technologies Used
 
-Tableau Desktop / Tableau Public
-Data Cleaning (Excel or Google Sheets)
-Visualization Tools (Charts, Filters, Parameters, Dashboard Actions)
+<br>Tableau Desktop / Tableau Public
+<br>Data Cleaning (Excel or Google Sheets)
+<br>Visualization Tools (Charts, Filters, Parameters, Dashboard Actions)
 
 # Dashboard Features
 
-Interactive filters for Car Brand, Region, and Year
-Visualization of Total Sales, Profit, and Quantity Sold
-Trend Analysis of sales over months or years
-Top Performing Brands and models based on revenue
-Regional Sales Map to display geographic distribution
-Dynamic KPIs (Total Sales, Average Profit, Total Units Sold)
+<br>Interactive filters for Car Brand, Region, and Year
+<br>Visualization of Total Sales, Profit, and Quantity Sold
+<br>Trend Analysis of sales over months or years
+<br>Top Performing Brands and models based on revenue
+<br>Regional Sales Map to display geographic distribution
+<br>Dynamic KPIs (Total Sales, Average Profit, Total Units Sold)
 
 # Insight & Analysis
 
-Identify which brands or regions contribute most to revenue.
-Discover seasonal patterns or time-based sales trends.
-Compare profit margins across different car models.
-Evaluate overall sales performance using visual KPIs.
+<br>Identify which brands or regions contribute most to revenue.
+<br>Discover seasonal patterns or time-based sales trends.
+<br>Compare profit margins across different car models.
+<br>Evaluate overall sales performance using visual KPIs.
 
 # Usages
 
-This dashboard can be used by:
-Dealership Managers to track performance and set targets.
-Business Analysts to identify trends and optimize strategy.
-Students & Learners to practice Tableau dashboard development.
+<br>This dashboard can be used by:
+<br>Dealership Managers to track performance and set targets.
+<br>Business Analysts to identify trends and optimize strategy.
+<br>Students & Learners to practice Tableau dashboard development.
 
 # Contributing
 
-Fork the repository.
-Create a new branch (feature/update-dashboard).
-Make your changes and commit.
-Submit a pull request.
+<br>Fork the repository.
+<br>Create a new branch (feature/update-dashboard).
+<br>Make your changes and commit.
+<br>Submit a pull request.
 
 # Conclusion
 
