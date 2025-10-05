@@ -2,6 +2,10 @@
 
 An interactive Tableau dashboard designed to analyze and visualize car sales performance across regions, brands, and time periods for better business insights.
 
+
+![Uploading image.png…]()
+
+
 # Introduction
 
 The Car Sales Dashboard is an advanced data visualization project built using Tableau, aimed at analyzing and understanding automobile sales performance across different regions, brands, and time periods. In today’s competitive automotive market, businesses rely heavily on data-driven insights to track performance, monitor sales trends, and make informed decisions. This dashboard serves as a one-stop analytical tool that presents large volumes of sales data in an interactive and visually appealing format.
